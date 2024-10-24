@@ -5,7 +5,7 @@ performing frequency analysis to aid in cryptanalysis.
 
 ## Features:
 Encryption & Decryption: Encrypts and decrypts messages using the Vigenère cipher. Also supports handling of uppercase, lowercase, spaces, and special characters.
-Frequency Analysis: Analyzes letter frequencies in the ciphertext to help determine possible key lengths and assist in breaking the cipher.
+Frequency Analysis: Analyzes letter frequencies in the ciphertext to help determine assist in possibly breaking the cipher.
 
 ## How It Works:
 
@@ -15,12 +15,13 @@ Frequency Analysis: Calculates the frequency of each letter in the ciphertext. H
 
 ## Limitations:
 ~ The implementation is not optimized for large texts or very long keys. 
+
 ~ It does not include advanced cryptanalysis methods like the Kasiski examination or Friedman test.
 
 ## Future Improvements
-~ Add support for key length estimation using Kasiski examination or the Friedman test.
+~ Add support for key estimation using Kasiski examination or the Friedman test.
+
 ~ Implement a more user-friendly interface, such as a web-based UI.
-~ Add the ability to perform chosen plaintext attacks for educational purposes.
 
 
 ## Contact
