@@ -1,7 +1,6 @@
 # Vigenère Cipher Implementation
 
-This project is a Python-based implementation of the Vigenère cipher, a classical encryption technique. It includes features for encrypting and decrypting messages, as well as 
-performing frequency analysis to aid in cryptanalysis.
+This project is a Python-based implementation of the Vigenère cipher, a classical encryption technique. It includes features for encrypting and decrypting messages, as well as performing frequency analysis to aid in cryptanalysis. I created it over my freshman summer, with hopes of trying to learn Python's syntax. 
 
 ## Features:
 Encryption & Decryption: Encrypts and decrypts messages using the Vigenère cipher. Also supports handling of uppercase, lowercase, spaces, and special characters.
