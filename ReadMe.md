@@ -11,6 +11,7 @@ Frequency Analysis: Analyzes letter frequencies in the ciphertext to help determ
 
 Vigenère Cipher: The Vigenère cipher uses a key to shift each character in the plaintext by a certain number of positions in the alphabet. The key is repeated throughout the message, 
 creating a series of shifts based on each letter in the key.
+
 Frequency Analysis: Calculates the frequency of each letter in the ciphertext. Helps identify the most likely key length by analyzing letter distribution patterns.
 
 ## Limitations:
